@@ -1,0 +1,12 @@
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\bin\Debug\MVLProject1.exe.config
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\bin\Debug\MVLProject1.exe
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\bin\Debug\MVLProject1.pdb
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.csproj.AssemblyReference.cache
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.CMS.resources
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.Properties.Resources.resources
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.csproj.GenerateResource.cache
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.csproj.CoreCompileInputs.cache
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.exe
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.pdb
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.login.resources
+D:\MachineVisionLearning\Works\实训第五天\MVLProject1\obj\Debug\MVLProject1.Yoyo_WebCafe.resources

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|d:\\machinevisionlearning\\works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\mvlproject1\\yoyo_webcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|solutionrelative:yoyo_webcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|d:\\machinevisionlearning\\works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\mvlproject1\\yoyo_webcafe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|solutionrelative:yoyo_webcafe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|d:\\machinevisionlearning\\works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\mvlproject1\\yoyo_webcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|solutionrelative:yoyo_webcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8C2A7D-14E0-41F5-AD9B-F37F79D7377C}|MVLProject1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yoyo_WebCafe.cs",
+              "DocumentMoniker": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Yoyo_WebCafe.cs",
+              "RelativeDocumentMoniker": "Yoyo_WebCafe.cs",
+              "ToolTip": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Yoyo_WebCafe.cs",
+              "RelativeToolTip": "Yoyo_WebCafe.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:29:45.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yoyo_WebCafe.Designer.cs",
+              "DocumentMoniker": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Yoyo_WebCafe.Designer.cs",
+              "RelativeDocumentMoniker": "Yoyo_WebCafe.Designer.cs",
+              "ToolTip": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Yoyo_WebCafe.Designer.cs",
+              "RelativeToolTip": "Yoyo_WebCafe.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAzwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:28:18.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yoyo_WebCafe.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Yoyo_WebCafe.cs",
+              "RelativeDocumentMoniker": "Yoyo_WebCafe.cs",
+              "ToolTip": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Yoyo_WebCafe.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Yoyo_WebCafe.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:11:57.662Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MachineVisionLearning\\Works\\\u5B9E\u8BAD\u7B2C\u4E94\u5929\\MVLProject1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:23:44.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
