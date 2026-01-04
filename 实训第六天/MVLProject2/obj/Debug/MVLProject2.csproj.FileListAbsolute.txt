@@ -1,0 +1,12 @@
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\bin\Debug\MVLProject2.exe.config
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\bin\Debug\MVLProject2.exe
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\bin\Debug\MVLProject2.pdb
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.csproj.AssemblyReference.cache
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.Form1.resources
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.Properties.Resources.resources
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.csproj.GenerateResource.cache
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.csproj.CoreCompileInputs.cache
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.exe
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.pdb
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.Form2.resources
+D:\MachineVisionLearning\Works\实训第六天\MVLProject2\obj\Debug\MVLProject2.Form3.resources
